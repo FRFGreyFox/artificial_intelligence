@@ -1,0 +1,7 @@
+artificial_intelligence
+
+python -m venv venv
+cd venv/Scripts
+./activate
+
+Группа по изучению Python (40) - основная цель, изучить исскуственный интеллект на Python

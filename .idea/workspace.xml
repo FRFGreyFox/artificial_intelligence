@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f05b352d-c18b-4374-982c-92bc85e00fdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/Standard Library/Date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Standard Library/DateTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Standard Library/Time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Group/Nikita Petrenko/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Group/Yana Sycheva/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectors/Base Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectors/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectors/Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectors/OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectors/Сollections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/Bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/Cube-event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/Vkusnyshki_ secundomer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Computing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Input_data_Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Input_data_Output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Test_Nikita" beforeDir="false" afterPath="$PROJECT_DIR$/Group/Nikita Petrenko/Test_Nikita" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +51,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.DateTime">
-    <configuration name="Ввод и вывод данных" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Grey\Documents\artificial_intelligence\Group\Nikita Petrov" />
+      <recent name="C:\Users\Grey\Documents\artificial_intelligence\Group" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Computing">
+    <configuration name="Computing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="artificial_intelligence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,32 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Упражнения" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Упражнения/Ввод и вывод данных.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="artificial_intelligence" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/Standdrt bibliory" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Grey\Documents\artificial_intelligence\Lessons\Standdrt bibliory\Date.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Computing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,6 +100,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="artificial_intelligence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Group/Yana Sycheva" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Group/Yana Sycheva/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="artificial_intelligence" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,12 +142,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Vkusnyshki_ secundomer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="artificial_intelligence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other/Vkusnyshki_ secundomer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Computing" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Vkusnyshki_ secundomer" />
         <item itemvalue="Python.DateTime" />
         <item itemvalue="Python.Time" />
-        <item itemvalue="Python.DateTime" />
-        <item itemvalue="Python.Ввод и вывод данных" />
       </list>
     </recent_temporary>
   </component>

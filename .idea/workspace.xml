@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05b352d-c18b-4374-982c-92bc85e00fdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Group/Nikita Petrenko/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group/Yana Sycheva/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectors/Base Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectors/Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectors/Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectors/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectors/Сollections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/Bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/Cube-event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/Vkusnyshki_ secundomer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/cd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Computing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Input_data_Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Input_data_Output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Test_Nikita" beforeDir="false" afterPath="$PROJECT_DIR$/Group/Nikita Petrenko/Test_Nikita" afterDir="false" />
-    </list>
+    <list default="true" id="f05b352d-c18b-4374-982c-92bc85e00fdd" name="Default Changelist" comment="11.03.22 Закрепление знаний+Задачи+портфолио" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,6 +164,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646212507710</updated>
     </task>
+    <task id="LOCAL-00001" summary="11.03.22 Закрепление знаний+Задачи+портфолио">
+      <created>1646992907758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646992907758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,5 +184,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11.03.22 Закрепление знаний+Задачи+портфолио" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.03.22 Закрепление знаний+Задачи+портфолио" />
   </component>
 </project>
